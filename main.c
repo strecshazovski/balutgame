@@ -1,6 +1,6 @@
 //
 //  main.c
-//  practical2
+//  
 //
 //  Created by Ömercan Kahveci on 14.04.2022.
 //
